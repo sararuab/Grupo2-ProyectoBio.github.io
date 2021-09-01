@@ -1,0 +1,43 @@
+cuerpo {
+    margen: 60px automático;
+    ancho: 70%;
+}
+nav ul, footer ul {
+    familia de fuentes: 'Helvetica', 'Arial', 'Sans-Serif';
+    relleno: 0px;
+    estilo de lista: ninguno;
+    font-weight: negrita;
+}
+nav ul li, footer ul li {
+    pantalla: en línea;
+    margen derecho: 20px;
+}
+a {
+    decoración de texto: ninguna;
+    color: # 999;
+}
+a: hover {
+    decoración de texto: subrayado;
+}
+h1 {
+    tamaño de fuente: 3em;
+    familia de fuentes: 'Helvetica', 'Arial', 'Sans-Serif';
+}
+pag {
+    tamaño de fuente: 1.5em;
+    altura de línea: 1.4em;
+    color: # 333;
+}
+pie de página {
+    borde superior: 1px sólido # d5d5d5;
+    tamaño de fuente: .8em;
+}
+
+ul.posts { 
+    margen: 20px auto 40px; 
+    tamaño de fuente: 1.5em;
+}
+
+ul.posts li {
+    estilo de lista: ninguno;
+}
